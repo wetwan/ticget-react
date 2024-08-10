@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "id": "3",
+      "title": "stand-up comedy",
+      "type": "comedy",
+      "location": "lag, NG",
+      "image": "image11 (3).png",
+      "time": "10:00PM",
+      "center": "ace mall",
+      "date": "2024-11-20",
+      "details": "Laugh out loud with top comedians at our stand-up comedy night."
+    },
+    {
+      "id": "4",
+      "title": "talk show",
+      "type": "talk-show",
+      "location": "lag, NG",
+      "image": "image11 (5).png",
+      "time": "10:00PM",
+      "center": "ace mall",
+      "date": "2024-11-20",
+      "details": "Engage in insightful discussions with top personalities at our talk show."
+    },
+    {
+      "id": "5",
+      "title": "olic",
+      "type": "concert",
+      "location": "lag, NG",
+      "image": null,
+      "time": "06:59",
+      "center": "ace mall",
+      "date": "2024-11-20",
+      "details": "We party with Nigeria's star artist Olamide, as he thrills the crowd at another edition of Olamide Live in Concert."
+    },
+    {
+      "id": "6",
+      "title": "movie night",
+      "type": "cinema",
+      "location": "lag, NG",
+      "image": "image11 (7).png",
+      "time": "10:00PM",
+      "center": "ace mall",
+      "date": "2024-11-20",
+      "details": "Enjoy a blockbuster movie at our special screening night."
+    },
+    {
+      "id": "7",
+      "title": "stand-up comedy",
+      "type": "comedy",
+      "location": "lag, NG",
+      "image": "image4 (1).png",
+      "time": "10:00PM",
+      "center": "ace mall",
+      "date": "2024-11-20",
+      "details": "Laugh out loud with top comedians at our stand-up comedy night."
+    },
+    {
+      "id": "8",
+      "title": "talk show",
+      "type": "talk-show",
+      "location": "lag, NG",
+      "image": "image4 (2).png",
+      "time": "10:00PM",
+      "center": "ace mall",
+      "date": "2024-11-20",
+      "details": "Engage in insightful discussions with top personalities at our talk show."
+    },
+    {
+      "id": "9",
+      "title": "olic",
+      "type": "concert",
+      "location": "lag, NG",
+      "image": "image4 (3).png",
+      "time": "10:00PM",
+      "center": "ace mall",
+      "date": "2024-11-20",
+      "details": "We party with Nigeria's star artist Olamide, as he thrills the crowd at another edition of Olamide Live in Concert."
+    },
+    {
+      "id": "10",
+      "title": "movie night",
+      "type": "cinema",
+      "location": "lag, NG",
+      "image": "image4 (4).png",
+      "time": "10:00PM",
+      "center": "ace mall",
+      "date": "2024-11-20",
+      "details": "Enjoy a blockbuster movie at our special screening night."
+    }
+  ]
+}
