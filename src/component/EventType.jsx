@@ -48,8 +48,7 @@ const EventType = () => {
 
               return items.length > 0 ? (
                 items.map((event, i) => (
-                // console.log(events.map(event => event.imageUrl))
-
+               
                   <Event key={i} event={event} />
                 ))
               ) : (

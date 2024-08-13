@@ -141,8 +141,6 @@ const eventLoader = async ({params}) =>{
   if (!res.ok) {
     throw new Error('Failed to fetch event data');
   }
-  const data = await res.json()
- console.log(data)
   return data
 
   

@@ -9,7 +9,6 @@ const Search = ({ events }) => {
     
     const handleFilter = (e) => {
       const filteredData = events.filter(event => event?.type === e || event?.title.toLowerCase().includes(e.toLowerCase()))
-      console.log(filteredData)
       setFilteredData(filteredData)
       }
 
