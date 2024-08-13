@@ -2,6 +2,8 @@ import React from 'react'
 import { useParams, useLoaderData,Link,useNavigate } from 'react-router-dom'
 import { FaTrash , FaPenToSquare} from 'react-icons/fa6';
 import { motion } from 'framer-motion';
+import image from '../assets/image4 (1).png'
+
 
 
 const Eventpage = ({deleteEvent}) => {
@@ -55,6 +57,7 @@ const Eventpage = ({deleteEvent}) => {
                 <div className="md:w-64 w-5/6 border-grey border  h-54 rounded-md mx-auto md:mx-44">
                 	
                     <img src={event.image} alt={event.title}/>
+                    {/* <img src={image} alt={event.title}/> */}
                 </div>
 
 
@@ -139,7 +142,10 @@ const eventLoader = async ({params}) =>{
     throw new Error('Failed to fetch event data');
   }
   const data = await res.json()
+ console.log(data)
   return data
+
+  
 }
 
 

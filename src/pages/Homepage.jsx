@@ -10,11 +10,14 @@ const Homepage = () => {
   return (
     <>
         <HeaderIndx />
-        <NavIndex />
+    
+            <NavIndex />
         <Addbtn />
         <Trending />
         <Events isHome={true}/>
         < MoreEvents />
+            
+      
         < Footer />
     </>
    
